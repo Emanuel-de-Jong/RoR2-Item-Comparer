@@ -1,0 +1,280 @@
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.deps.json
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.pdb
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\0Harmony.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Harmony.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.MonoMod.Loader.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Preloader.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MMHOOK_Assembly-CSharp.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Mdb.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Pdb.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Rocks.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.exe
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.RuntimeDetour.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.Utils.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\R2API.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Networking.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Unity.Postprocessing.Runtime.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Rewired_Core.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\TextMeshPro-1.0.55.2017.1.0b11.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Wwise.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Facepunch.Steamworks.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Zio.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Rewired_CSharp.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Timeline.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\0Harmony.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Harmony.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.MonoMod.Loader.pdb
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CoreModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AudioModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UNETModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AIModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClothModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GridModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VFXModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VideoModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.WindModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.InputModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.XRModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ARModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VRModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.xml
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csprojAssemblyReference.cache
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.AssemblyInfo.cs
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csproj.CopyComplete
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.dll
+C:\Users\manue\source\repos\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.pdb
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.deps.json
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\ItemCounter.pdb
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\0Harmony.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Harmony.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.MonoMod.Loader.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Preloader.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MMHOOK_Assembly-CSharp.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Mdb.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Pdb.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Mono.Cecil.Rocks.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.exe
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.RuntimeDetour.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\MonoMod.Utils.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\R2API.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Networking.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Unity.Postprocessing.Runtime.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Rewired_Core.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\TextMeshPro-1.0.55.2017.1.0b11.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Wwise.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Facepunch.Steamworks.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Zio.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\Rewired_CSharp.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Timeline.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\0Harmony.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.Harmony.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\BepInEx.MonoMod.Loader.pdb
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CoreModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AudioModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UNETModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AIModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClothModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GridModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VFXModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VideoModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.WindModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.InputModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.XRModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.ARModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.VRModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.xml
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csprojAssemblyReference.cache
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csproj.CoreCompileInputs.cache
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.AssemblyInfoInputs.cache
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.AssemblyInfo.cs
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.csproj.CopyComplete
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.dll
+D:\Games\steamapps\common\Risk of Rain 2\Modding\mods\ItemCounter\ItemCounter\obj\Debug\netstandard2.0\ItemCounter.pdb
