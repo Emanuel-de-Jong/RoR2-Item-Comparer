@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\c#\\other\\ItemCounter\\ItemCounter\\ItemCounter.csproj",
+      "projectUniqueName": "D:\\Programming\\Repos\\RoR2-Item-Comparer\\ItemCounter\\ItemCounter.csproj",
       "projectName": "ItemCounter",
-      "projectPath": "D:\\Programming\\c#\\other\\ItemCounter\\ItemCounter\\ItemCounter.csproj",
+      "projectPath": "D:\\Programming\\Repos\\RoR2-Item-Comparer\\ItemCounter\\ItemCounter.csproj",
       "packagesPath": "C:\\Users\\Emanu\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\c#\\other\\ItemCounter\\ItemCounter\\obj\\",
+      "outputPath": "D:\\Programming\\Repos\\RoR2-Item-Comparer\\ItemCounter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
