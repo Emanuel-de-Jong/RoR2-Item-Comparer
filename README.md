@@ -4,6 +4,8 @@
 A mod for Risk of Rain 2 that counts all the players items and displays their total worth to them.
 Some items have a different value because they are better.
 This way you can easily see who should get the next item by looking at the points.
+The mod itself is in /ItemCounter/bin/Debug/. 
+If you change anything, like the value a rarity gives, you'll have to recompile it.
 
 
 ## Information
@@ -18,8 +20,7 @@ This way you can easily see who should get the next item by looking at the point
 - Start date: 11.06.19
 - Last change: 14.06.19
 - Activity status: Complete
-- Reason activity status: 
 
 
 ## Screenshots
-![](/Screenshots/Game.png)
+![Game](/Screenshots/Game.png)
