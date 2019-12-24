@@ -20,7 +20,10 @@ If you change anything, like the value a rarity gives, you'll have to recompile 
 - Start date: 11.06.19
 - Last change: 14.06.19
 - Activity status: Complete
+- Useable: No
+- Reason useability: Modding the game has changed. It now uses an API. Because of this, the mod doesn't work anymore.
 
 
 ## Screenshots
 ![Game](/Screenshots/Game.png)
+This is not an real screenshot of the mod in action but rather edited to show how the mod functions. The real mod looks better and uses actual player names.
