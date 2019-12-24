@@ -1,4 +1,4 @@
-# ItemCounter
+# RoR2-Item-Comparer
  
 ## Description
 A mod for Risk of Rain 2 that counts all the players items and displays their total worth to them.
