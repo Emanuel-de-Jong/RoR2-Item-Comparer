@@ -22,8 +22,8 @@ This is not a real screenshot of the mod in action but rather edited to show how
 - Frameworks and libraries: .NET Framework, Unity
 
 ## Progress
-- Start date: 11.06.19
-- Last change: 14.06.19
+- Start date: 2019-06-11
+- Last change: 2019-06-14
 - Activity status: Complete
 - Useable: No
 - Reason useability: Modding the game has changed. It now uses an API. Because of this, the mod doesn't work anymore.
