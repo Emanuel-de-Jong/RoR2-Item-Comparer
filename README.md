@@ -5,8 +5,8 @@ Some items have a different value because they are better. This way you can easi
 
 If you change anything, like the value a rarity gives, you'll have to recompile it.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-06-11 - 2019-06-14<br>
+**Last Change:** 2019-06-14<br>
 
 | | |
 | :---: | :---: |
@@ -22,8 +22,6 @@ This is not a real screenshot of the mod in action but rather edited to show how
 - Frameworks and libraries: .NET Framework, Unity
 
 ## Progress
-- Start date: 2019-06-11
-- Last change: 2019-06-14
 - Activity status: Complete
 - Useable: No
 - Reason useability: Modding the game has changed. It now uses an API. Because of this, the mod doesn't work anymore.
